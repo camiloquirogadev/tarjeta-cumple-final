@@ -188,7 +188,7 @@ export default function TarjetaRegalo() {
             🎉 ¡Feliz Cumple Santi! ¡Felices 15 años! 💖
           </h1>
           <p className="text-lg text-white/80 mb-6">
-            Cadete, su misión de cumpleaños es clara: relajarse, reírse fuerte y disfrutar cada segundo como corresponde, Siempre feliz. ¡Feliz cumple, hermano! Te quiero mucho, Cumpla con honor y sin olvidar la ración de torta.
+            Cadete Quiroga, su misión de cumpleaños es clara: relajarse, reírse fuerte y disfrutar cada segundo como corresponde, Siempre feliz. ¡Feliz cumple, hermano! Te quiero mucho, Cumpla con honor y sin olvidar la ración de torta.
           </p>
           <motion.button
             onClick={() => {
